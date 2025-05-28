@@ -2,9 +2,6 @@
 
 **LitLens** is a simple web application designed to help users find book recommendations and give insights for authors and readers. The app includes login/signup functionality and a clean, responsive design.
 
-## 🌐 Live Demo
-
-> [Link to hosted site (optional)]()
 
 ## 📁 Project Structure
 
